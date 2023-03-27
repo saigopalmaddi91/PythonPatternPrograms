@@ -1,0 +1,11 @@
+27/03/2023 12:50:13 PM:INFO:A new request came
+27/03/2023 12:50:19 PM:INFO:Request processing complete
+27/03/2023 12:50:35 PM:INFO:A new request came
+27/03/2023 12:50:41 PM:ERROR:division by zero
+Traceback (most recent call last):
+  File "/Users/saigopalmaddi/PycharmProjects/PythonPatternPrograms/LoggingDemo.py", line 9, in <module>
+    print("The division is : ", x/y)
+ZeroDivisionError: division by zero
+27/03/2023 12:50:41 PM:INFO:Request processing complete
+27/03/2023 12:50:44 PM:INFO:A new request came
+27/03/2023 12:50:48 PM:INFO:Request processing complete
