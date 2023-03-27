@@ -1,0 +1,5 @@
+27/03/2023 05:40:06 PM : CRITICAL : demologger : This is CRITICAL log
+27/03/2023 05:40:06 PM : ERROR : demologger : This is ERROR log
+27/03/2023 05:40:06 PM : WARNING : demologger : This is WARNING log
+27/03/2023 05:40:06 PM : INFO : demologger : This is INFO log
+27/03/2023 05:40:06 PM : DEBUG : demologger : This is DEBUG log
