@@ -10,7 +10,8 @@ class Outer:
             def __init__(self):
                 print("Nested Inner Class Constructor invoked - Object created")
 
-            def method(self):
+            @staticmethod
+            def method():
                 print("Nested Inner Class Method Invoked....")
 
 outer = Outer()

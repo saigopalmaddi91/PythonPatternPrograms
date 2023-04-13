@@ -16,5 +16,4 @@ print("Sorted Order is : ",  ''.join(sorted(alphabets) + sorted(digits)))
 '''
 Enter Input String : Saigopal060895Maddi
 Sorted Order is :  MSaaaddgiilop005689
-
 '''
